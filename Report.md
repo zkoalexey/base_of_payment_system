@@ -13,4 +13,5 @@
 - История платежей
 
 Разместим понятия на диаграмме классов: 
+
 ![](https://github.com/zkoalexey/base_of_payment_system/blob/master/diagr.png)
