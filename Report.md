@@ -67,3 +67,16 @@
 
 ![](https://github.com/zkoalexey/base_of_payment_system/blob/master/diagr2.png)
 
+### Диаграмма последовательностей
+
+![](https://github.com/zkoalexey/base_of_payment_system/blob/master/usecase.png)
+
+*Рис.3.Успешная аутентификация*
+
+![](https://github.com/zkoalexey/base_of_payment_system/blob/master/usecase2.png)
+
+*Рис.3. Неуспешная аутентификация*
+
+![](https://github.com/zkoalexey/base_of_payment_system/blob/master/usecase3.png)
+
+*Рис.3.Успешный запрос истории*
